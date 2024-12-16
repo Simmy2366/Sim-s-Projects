@@ -1,0 +1,31 @@
+*margin{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Calibri', sans-serif;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(/images/Background.webp);
+    background-size: cover;
+}
+
+.glass-container{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    background-color: lightsalmon;
+    box-shadow: 0 4px 6px;
+    border-radius: 10px;
+    border: 1px;
+}
+
+.login-box{
+    max-width: 250px;
+    margin: 0 auto;
+    text-align: center;
+}

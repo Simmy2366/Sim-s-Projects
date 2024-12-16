@@ -1,0 +1,462 @@
+/* drinks css
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(215, 241, 241);
+}
+
+/*simple nav-bar css*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    }
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightskyblue;
+}
+
+
+
+/*DIV CSS*/
+div .Header img {
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+div.Header h1 {
+    text-align: left;
+}
+
+div.Sprite img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Coca-cola img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Fanta img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Minute-Maid img{
+    width: 300px;
+    height: 200px;
+}
+
+/*homepage css*/
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+/*Body*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+/*simple nav-bar css*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(8, 243, 243);
+    }
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightskyblue;
+}
+
+img{
+    width: 800px;
+    height: 400px;
+}
+
+/*Div 1 css*/
+.div1 {
+    width: 40%;
+    display: inline-block;
+}
+
+.div1 img{
+    width: 260px;
+    height: 222px;
+}
+
+.div1 {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+/*Div 2 css*/
+.div2 {
+    width: 40%;
+    display: inline-block;
+}
+
+.div2 img{
+    width: 260px;
+    height: 222px;
+}
+
+.div2 {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+/*Div 3 css*/
+.div3 {
+    width: 40%;
+    display: inline-block;
+}
+
+.div3 img{
+    width: 260px;
+    height: 222px;
+}
+
+.div3 {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+
+/*Section*/
+article img{
+    height: 300px;
+    width: 600px;
+    float: left;
+}
+
+
+/* pastry css*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(215, 241, 241);
+}
+
+/*simple nav-bar css*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    }
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightskyblue;
+}
+
+/*DIV CSS*/
+div .Header img{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+div .Header h1{
+    text-align: left;
+}
+
+div.Cheeseroll img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Meatpocket img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Patty img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Cinnamon img{
+    width: 300px;
+    height: 200px;
+}
+
+
+/* snacks css*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(215, 241, 241);
+}
+
+/*simple nav-bar css*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    }
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightskyblue;
+}
+
+/*DIV CSS*/
+div .Header img{
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+div .Header h2{
+    text-align: left;
+}
+
+div.Tortillaz img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Zoomers img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Big-Foot img{
+    width: 300px;
+    height: 200px;
+}
+
+div.Cheezees img{
+    width: 300px;
+    height: 200px;
+}
+
+/* login and reg css */
+body {
+    background-image: url(Images/Background.webp);
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.box{
+    background-color: #e4e9f7;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 30px;
+    border-radius: 30px;
+    box-shadow: 0 0 128px 0 rgba(0, 0, 0, 1),
+                0 32px 64px -48px rgba(0, 0, 0, 0.5);
+}
+
+.form-box{
+    width: 450px;
+    margin: 0px 10px;
+}
+
+.form-box header{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 10px;
+}
+
+.form-box form .field{
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: column;
+}
+
+.form-box form .input input{
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.btn{
+    height: 35px;
+    background-color: lightsalmon;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all .3s;
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+
+.btn:hover{
+    opacity: 0.82;
+}
+
+.submit{
+    width: 100%;
+}
+
+.link{
+    margin-bottom: 15px;
+}
+
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*Footer css*/
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Body styling */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+
+/* Footer container */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Footer content container */
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
